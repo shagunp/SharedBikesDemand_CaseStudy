@@ -4,9 +4,8 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 ## General Information
 - BoomBikes wants to understand the factors affecting the demand for the shared bikes in the American market The company wants to know:
